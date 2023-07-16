@@ -12,7 +12,9 @@ Task:
 Imagine yourself as Peter Pandey and perform the following task
 
 Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. Hence you need to represent the insights in a much better way
+
 The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
+
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 Data Model
@@ -29,7 +31,11 @@ plans_page
 Insights
 
 Revenue is declined by 0.5 % compared to the previous network, which is mainly caused by Delhi, Chennai, Ahmedabad cities.
+
 Even though there is a decline in the revenue, ARPU (Average revenue per user) has increased from 190.2 to 211.3 rupees.
+
 AtliQo maintains third position in the market always without any change.
+
 Plan 1,2 and 11 are the highly performing plans among all the plans
+
 Pune has 18% growth in active users despite having 55% increase in the unsubscribed users
