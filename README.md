@@ -1,13 +1,13 @@
 # AtliQo-Telecom-Analysis---PowerBI
 
-Problem statement
+**Problem statement**
 
 
 AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
 
 However, the management noticed a decline in their active users and revenue growth post 5G launch in May 2022. Atliqo’s business director requested their analytics team to provide a comparison report of KPIs between pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and get insights which would enable them to make informed decisions to recover their active user rate and other key metrics. They also wonder if they can optimize their internet plans to get more active users. Peter Pandey, a junior data analyst is assigned to this task.
 
-Task:
+**Task:**
 
 Imagine yourself as Peter Pandey and perform the following task
 
@@ -17,18 +17,27 @@ The target audience of this dashboard is top-level management - hence the dashbo
 
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
-Data Model
+**Data Model**
+
+![image](https://github.com/Gyaneshwar16/AtliQo-Telecom-Analysis---PowerBI/assets/139397600/033b2214-d07d-461a-b7a5-da02043ded6c)
 
 
-Dashboard Design
+**Dashboard Design**
 
 main_page
 
+![image](https://github.com/Gyaneshwar16/AtliQo-Telecom-Analysis---PowerBI/assets/139397600/1125cf13-7fd2-4360-a60e-200280926419)
+
 market_page
+
+![image](https://github.com/Gyaneshwar16/AtliQo-Telecom-Analysis---PowerBI/assets/139397600/6bbc6ae2-406d-4f21-99ef-721270db8414)
 
 plans_page
 
-Insights
+![image](https://github.com/Gyaneshwar16/AtliQo-Telecom-Analysis---PowerBI/assets/139397600/0fcf03e0-32f2-4c33-a0e2-b741ece57cda)
+
+
+**Insights**
 
 Revenue is declined by 0.5 % compared to the previous network, which is mainly caused by Delhi, Chennai, Ahmedabad cities.
 
